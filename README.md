@@ -80,13 +80,15 @@
 <img height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png">
 
 <h3>🤿 DevOps</h3>
-</div>
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png">
 <img height="50" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png">
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png">
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png">
+</div>
 
 <h2>My Stats: 📊</h2>
+
+<div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Winter-Soren&layout=compact&theme=cobalt)
 
@@ -94,7 +96,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Winter-Soren&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[2021]&theme=cobalt&background=193549)](https://git.io/streak-stats)
 
-
+<br>
+    
+</div>
 
 <img src="the-end.gif" alt="Footer Image" style="width: 100%; height: auto;">
 
