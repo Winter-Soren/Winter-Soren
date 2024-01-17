@@ -31,7 +31,7 @@
 <h2>Technologies Worked With: 👨‍💻</h2>
 
 <div>
-    <img src="./knowledge.gif" align="right" height="300" width="400"  />
+    <!-- <img src="./knowledge.gif" align="right" height="300" width="400"  /> -->
 
 <h3>🚍Communication</h3>
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183869554-ae3ce73a-b756-4cea-bb96-eadc96506102.png">
