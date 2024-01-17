@@ -17,8 +17,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFAADA&size=23&center=true&vCenter=true&lines=Student;Full+Stack+Developer;Self+Taught+Programmer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 <h2>🚀 Under The Hood</h2>
-<br>
     <img src="./eren.gif" align="right" height="320" />
+<br>
     <ul>
         <li style="font-size:18px">🌟 Welcome to my captivating journey as a budding developer & researcher!</li>
         <li style="font-size:18px">🧱 I love building stuff and thrive on new opportunities and challenges.</li>
@@ -31,7 +31,7 @@
 <h2>Technologies Worked With: 👨‍💻</h2>
 
 <div>
-    <!-- <img src="./knowledge.gif" align="right" height="300" width="400"  /> -->
+    <img src="./knowledge.gif" align="right" height="300" width="400"  />
 
 <h3>🚍Communication</h3>
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183869554-ae3ce73a-b756-4cea-bb96-eadc96506102.png">
