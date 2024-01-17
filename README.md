@@ -22,7 +22,7 @@
 <h2>🚀 Under The Hood</h2>
 <br>
 <div>
-    <img src="./eren.gif" align="right" height="400" style="margin-left:25px" />
+    <img src="./eren.gif" align="right" height="340" style="margin-left:25px" />
     <ul>
         <li style="font-size:18px">🌟 Welcome to my captivating journey as a budding developer & researcher!</li>
         <li style="font-size:18px">🧱 I love building stuff and thrive on new opportunities and challenges.</li>
@@ -36,7 +36,7 @@
 ## Technologies Worked With: 👨‍💻
 
 <div>
-    <img src="./knowledge.gif" align="right" height="300" width="400" style="margin-left:25px" />
+    <img src="./knowledge.gif" align="right" height="300" width="400"  />
 </div>
 
 ### 🚍Communication
