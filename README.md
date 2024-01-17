@@ -19,7 +19,7 @@
 <h2>🚀 Under The Hood</h2>
     <img src="./eren.gif" align="right" height="320" />
 <br>
-    <ul>
+    <ul align="left">
         <li style="font-size:18px">🌟 Welcome to my captivating journey as a budding developer & researcher!</li>
         <li style="font-size:18px">🧱 I love building stuff and thrive on new opportunities and challenges.</li>
         <li style="font-size:18px">🌐 Open to collaborating with like-minded intellectuals and sharing skills with the community.</li>
