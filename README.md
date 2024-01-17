@@ -18,8 +18,7 @@
 
 <h2>🚀 Under The Hood</h2>
 <br>
-<div>
-    <img src="./eren.gif" align="right" height="400" />
+    <img src="./eren.gif" align="right" height="320" />
     <ul>
         <li style="font-size:18px">🌟 Welcome to my captivating journey as a budding developer & researcher!</li>
         <li style="font-size:18px">🧱 I love building stuff and thrive on new opportunities and challenges.</li>
@@ -27,7 +26,6 @@
         <li style="font-size:18px">💻 I am Quantum Machine Learning Researcher and Full Stack Developer, but I'm always exploring new fields and experimenting.</li>
         <li style="font-size:18px">🎉 Fun fact: I'm constantly pushing the boundaries of what's possible while leaving room for excitement and fun.</li>
     </ul>
-</div>
 <br>
 
 <h2>Technologies Worked With: 👨‍💻</h2>
