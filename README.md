@@ -17,7 +17,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFAADA&size=23&center=true&vCenter=true&lines=Student;Full+Stack+Developer;Self+Taught+Programmer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 <h2>🚀 Under The Hood</h2>
-    <img src="./eren.gif" align="right" height="320" />
+    <!-- <img src="./eren.gif" align="right" height="320" /> -->
 <br>
     <ul align="left">
         <li style="font-size:18px">🌟 Welcome to my captivating journey as a budding developer & researcher!</li>
